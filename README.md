@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am an Associate Software Engineer at **Maltech Solutions Private Limited**, based in **Guntur, Andhra Pradesh, INDIA**. I design intelligent systems that turn complex knowledge into practical answers.
+I am an Associate Software Engineer at **Cybrowse Digital Solutions Private Limited**, based in **Guntur, Andhra Pradesh, INDIA**. I design intelligent systems that turn complex knowledge into practical answers.
 
 ---
 
